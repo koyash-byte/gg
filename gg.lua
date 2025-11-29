@@ -3,10 +3,10 @@ AGE_ACCS = {
   "emrekarseal", "emrekario"
 }
 RIO_ACCS = {
-     "emrekario2", "emrekario3", "emrekario4", "emrekario5", "emrekario7" --"emrekarseal", "emrekario", "emrekario8", "gngrio1", "gngrio2", "gngrio3", "gngrio4" 
+     "emrekario2", "emrekario3", "emrekario4", "emrekario5", "emrekario7", "emrekario8", "gngrio1", "gngrio2", "gngrio3", "gngrio4" 
 }
 LITE_RIO_ACCS = {
-  "emrekario8", "gngrio1", "gngrio2", "gngrio3", "gngrio4"
+  
 }
 WEIGHT_ACCS = {
 
