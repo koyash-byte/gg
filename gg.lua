@@ -1,5 +1,7 @@
 AGE_ACCS = {
   --"emrekario7", "emrekario8", "gngrio1", "gngrio2", "gngrio3"
+}
+LOLLI_ACCS = {
   "emrekarseal", "emrekario"
 }
 RIO_ACCS = {
